@@ -44,5 +44,5 @@ public class Decryption {
         fos.close();
         fis.close();
         System.out.println("...Decryption Successful...");
-    }
+    } 
 }
