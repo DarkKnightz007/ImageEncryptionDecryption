@@ -48,5 +48,5 @@ public class Encryption {
         fos.close();
         fis.close();
         System.out.println("...Encryption Successful...");
-    }
+    } 
 }
